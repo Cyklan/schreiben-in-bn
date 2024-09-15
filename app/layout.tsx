@@ -8,7 +8,7 @@ import { Footer } from "@/components/Footer";
 const dmSans = Merriweather({ weight: ["300", "400"], subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Schreiben in Bad Nauheim",
+  title: "Petra Ihm-Fahle",
   description: "Schreiben in Bad Nauheim - Petra Ihm-Fahle",
 };
 
